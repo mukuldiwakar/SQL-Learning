@@ -6,10 +6,7 @@ Welcome to the SQL Learning Notebooks repository! This repository contains a col
 
 - [About](#about)
 - [Content](#content)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
